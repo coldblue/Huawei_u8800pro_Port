@@ -28,7 +28,7 @@ ro.board.platform=msm7x30
 ro.build.product=u8800
 # Do not try to parse ro.build.description or .fingerprint
 ro.build.description=huawei-user 4.2.2 JDQ39E 223133 test-keys
-ro.build.fingerprint=huawei/u8800pro:4.2.2/JDQ39E/223133:userdebug/test-keys
+ro.build.fingerprint=huawei/u8800:4.2.2/JDQ39E/223133:userdebug/test-keys
 ro.build.characteristics=default
 ro.cm.device=u8800
 # end build properties
